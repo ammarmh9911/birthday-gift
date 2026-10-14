@@ -6,25 +6,25 @@ import { motion, AnimatePresence } from "framer-motion";
 const memories = [
   {
     image: "/memories/memory1.jpg",
-    title: "Our first photo",
-    text: "Isn't this our first photo together, look at you so cute and happy🥹",
+    title: "Our first photos",
+    text: "Isn't this our first photos together, look at you so cute and happy🥹",
   },
   {
     image: "/memories/memory2.jpg",
     title: "My favorites🙈",
-    text: "I don't know babe, if you realize how much these photoes really means to me.",
+    text: "I don't know babe, if you realize how much these photos really means to me.",
   },
   {
     image: "/memories/memory3.jpg",
-    title: "Your letter",
-    text: "Still one of the best and cutest thing you gave me",
+    title: "Your letters",
+    text: "Still one of the sweetest and cutest things you gave me🙈",
   },
 ];
 
 const thingsILove = [
   {
     title: "Your smile😘",
-    text: "I don't think you realize how easily your smile can make a so happyyyy.",
+    text: "I don't think you realize how easily your smile can make me so happyyyy.",
   },
   {
     title: "Your eyes🥹",
@@ -195,7 +195,7 @@ export default function Home() {
               </h1>
 
               <p className="subtext">
-                And I wanted to make something that was just for you.
+                And I wanted to make something that was just for you. sorry i couldnt complete it on time.
               </p>
 
               <button
@@ -341,7 +341,7 @@ export default function Home() {
 
               <h1>My letter to you.</h1>
 
-              <p className="small-text">The one that I couldnt reply to you.</p>
+              <p className="small-text">The ones that I couldnt reply and sent you back.</p>
 
               <div className="letter-text">
                 <p>
@@ -352,8 +352,8 @@ export default function Home() {
                 <p>
                   But let me try, these are the things I want you to know today,
                   Firstly, it's how grateful I am that you are in my life.
-                  Alhamdulillah, secondly that I love you more than anything in this world
-                  and laslty I'm going to marry you one day Inshaallah. Very lastly Allah loves you
+                  Alhamdulillah, secondly that I love you more than anything in this world,
+                  thirdly I'm going to marry you one day Inshaallah and lastly Allah loves you
                   and he is with you all the time. Also,<br /> I really am the luckiest one to have to you in this world🙈
                 </p>
 
@@ -369,9 +369,10 @@ export default function Home() {
                 <p>
                   I pray this next year of your life brings you
                   everything you've been wishing for, and also get
-                  closer to everything we are wishing for. live your life nicely
-                  until I get you, after that I can make your life very nice.
-                  dont ever ever give up.
+                  closer to everything we are wishing for. Live your life nicely
+                  until I get you, after that I can make your life very nice and beautiful,
+                  dont ever ever give up. And zma please please take care of yourself if you want me to be happy.
+                    EAT FISH..!!!😾
                 </p>
 
                 <p>
@@ -381,7 +382,9 @@ export default function Home() {
                   regardless of who is in wrong, I never wanted to blame or accuse you of doing anything wrong,
                   because you are perfect, but I always failed to surpass my anger, my ego and my frastrations. 
                   Now I ask you to forgive me with all your heart. For I have regreted my life long till now and forever 
-                  for hurting you. 
+                  for hurting you. Please correct me each and everytime I go wrong, 
+                  because I dont want to say that you deserve someone better, but I want to say that I'll change for you
+                  and I can be the someone who is better.  
                 </p>
 
                 <p>
@@ -443,7 +446,7 @@ export default function Home() {
               </h1>
 
               <p className="final-message">
-                Happy Birthday, beautiful.
+                I love you more, beautiful.
                 Don't forget to love me tomorrow. 
               </p>
 
